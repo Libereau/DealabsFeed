@@ -8,7 +8,7 @@ from selenium import webdriver
 
 os.system('cls')
 print("\n[#] Dealabs RSS feed parser.")
-url = "https://www.dealabs.com/rssx/keyword-alarm/nIXuN_M_dZMkHo96vKMt0q9rHkiuc7M5EI_JFfKNYVk."
+url = "<Your Url Here>"
 feed = feedparser.parse(url)
 
 if feed.bozo == 1:
