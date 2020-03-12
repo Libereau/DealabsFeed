@@ -8,6 +8,8 @@ On peut alors, via ce code, s'envoyer un mail en fonction du prix du produit, ou
 
 ### Utilisation
 
+Utiliser soit le code en selenium soit en requests.
+
 Pour utiliser ce code, il faut :
 - Se connecter à votre compte Dealabs
 - Créer une ou plusieurs alertes
