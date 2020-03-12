@@ -1,4 +1,4 @@
-# DealabsFeed# Dealabs RSS feed parser
+# Dealabs RSS feed parser
 
 ### Présentation :
 
